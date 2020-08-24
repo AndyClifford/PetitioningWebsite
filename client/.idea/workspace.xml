@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49a2badf-65ab-46de-88ef-e063747a6c4a" name="Default Changelist" comment="mc yavry" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1bEbh6LSVKuJ295uPsnQUZp6njM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../assignment2-server" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.main.js">
+    <configuration name="ActivityInfo.vue" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/client/src/components/ActivityInfo.vue" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.main.js" />
+        <item itemvalue="JavaScript Debug.ActivityInfo.vue" />
+        <item itemvalue="JavaScript Debug.ActivityInfo.vue" />
+        <item itemvalue="JavaScript Debug.ActivityInfo.vue" />
+        <item itemvalue="JavaScript Debug.ActivityInfo.vue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49a2badf-65ab-46de-88ef-e063747a6c4a" name="Default Changelist" comment="" />
+      <created>1588200316122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588200316122</updated>
+      <workItem from="1588200318407" duration="10306000" />
+      <workItem from="1588244937564" duration="79000" />
+      <workItem from="1588408499346" duration="590000" />
+      <workItem from="1588460612771" duration="1219000" />
+      <workItem from="1588564118819" duration="472000" />
+      <workItem from="1588717314470" duration="688000" />
+      <workItem from="1589091317868" duration="2605000" />
+      <workItem from="1589157196735" duration="13491000" />
+      <workItem from="1589443965393" duration="6098000" />
+      <workItem from="1589505817927" duration="7614000" />
+      <workItem from="1589586116267" duration="176000" />
+      <workItem from="1589586474455" duration="29540000" />
+      <workItem from="1589622550980" duration="5892000" />
+      <workItem from="1589662590880" duration="38874000" />
+      <workItem from="1589749240175" duration="37012000" />
+      <workItem from="1589834271017" duration="7407000" />
+      <workItem from="1589855262626" duration="1311000" />
+      <workItem from="1589940046339" duration="15704000" />
+<<<<<<< Updated upstream
+      <workItem from="1590018412644" duration="5635000" />
+=======
+      <workItem from="1590043034102" duration="258000" />
+>>>>>>> Stashed changes
+    </task>
+    <task id="LOCAL-00001" summary="Changed editPassword endpoint to return a response entity instead of all of the users data as this is unnecessary. Changed EditPassword.vue to use updated error checking methods, in particular parseErrorMessage function, which seems to work well.">
+      <created>1588220330399</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588220330399</updated>
+    </task>
+    <task id="LOCAL-00002" summary="removed console log">
+      <created>1588244999886</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588244999886</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added location column to Activity, linked to frontend #implement #story[256] #pair[llo35, acl118]">
+      <created>1589107957389</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589107957389</updated>
+    </task>
+    <task id="LOCAL-00004" summary="changed home profile to only load activities on first click of show activities button #implement #pair[llo35, acl118] #story[256]">
+      <created>1589108647063</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589108647063</updated>
+    </task>
+    <task id="LOCAL-00005" summary="linked ActivityInfo to backend, now when the user clicks on an Activity container in the home page, it routes to ActivityInfo page where more details of the Activity are displayed to the user. From there the user can either edit the activity or return to the home page #implement #story[256]">
+      <created>1589168155447</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589168155447</updated>
+    </task>
+    <task id="LOCAL-00006" summary="changed log to false">
+      <created>1589173001014</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589173001014</updated>
+    </task>
+    <task id="LOCAL-00007" summary="mc yavry">
+      <created>1590024021783</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590024021783</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed editPassword endpoint to return a response entity instead of all of the users data as this is unnecessary. Changed EditPassword.vue to use updated error checking methods, in particular parseErrorMessage function, which seems to work well." />
+    <MESSAGE value="removed console log" />
+    <MESSAGE value="added location column to Activity, linked to frontend #implement #story[256] #pair[llo35, acl118]" />
+    <MESSAGE value="changed home profile to only load activities on first click of show activities button #implement #pair[llo35, acl118] #story[256]" />
+    <MESSAGE value="linked ActivityInfo to backend, now when the user clicks on an Activity container in the home page, it routes to ActivityInfo page where more details of the Activity are displayed to the user. From there the user can either edit the activity or return to the home page #implement #story[256]" />
+    <MESSAGE value="changed log to false" />
+    <MESSAGE value="mc yavry" />
+    <option name="LAST_COMMIT_MESSAGE" value="mc yavry" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="494" y="206" key="#ESLint" timestamp="1589801078905">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state x="494" y="218" key="#ESLint/-1920.63.1920.985/0.23.1792.1097@0.23.1792.1097" timestamp="1589689918829" />
+    <state x="494" y="206" key="#ESLint/0.23.1792.1032@0.23.1792.1032" timestamp="1589801078905" />
+    <state x="364" y="205" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588200388572">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state x="364" y="205" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.63.1920.1057/0.23.1792.1031@0.23.1792.1031" timestamp="1588200388572" />
+    <state x="634" y="384" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589773089586">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="634" y="384" key="#com.intellij.fileTypes.FileTypeChooser/-1920.63.1920.985/0.23.1792.1097@0.23.1792.1097" timestamp="1589690033061" />
+    <state x="634" y="384" key="#com.intellij.fileTypes.FileTypeChooser/-1920.63.1920.987/0.23.1792.1097@0.23.1792.1097" timestamp="1589773089586" />
+    <state x="634" y="384" key="#com.intellij.fileTypes.FileTypeChooser/-1920.63.1920.988/0.23.1792.1097@0.23.1792.1097" timestamp="1589602029694" />
+    <state x="-1223" y="307" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589586977458">
+      <screen x="-1920" y="63" width="1920" height="981" />
+    </state>
+    <state x="-1223" y="307" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.63.1920.981/0.23.1792.1097@-1920.63.1920.981" timestamp="1589586977458" />
+    <state x="1868" y="101" width="791" height="798" key="CommitChangelistDialog2" timestamp="1590024032468">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="455" y="168" key="CommitChangelistDialog2/-1920.63.1920.1057/0.23.1792.1029@0.23.1792.1029" timestamp="1589160970525" />
+    <state x="0" y="116" key="CommitChangelistDialog2/-1920.63.1920.1057/0.23.1792.1031@0.23.1792.1031" timestamp="1589172209409" />
+    <state x="0" y="116" key="CommitChangelistDialog2/-1920.63.1920.1057/0.23.1792.1032@0.23.1792.1032" timestamp="1589173133357" />
+    <state x="455" y="178" key="CommitChangelistDialog2/-1920.63.1920.983/0.23.1792.1097@0.23.1792.1097" timestamp="1589108646946" />
+    <state x="-1920" y="202" key="CommitChangelistDialog2/-1920.63.1920.985/0.23.1792.1097@-1920.63.1920.985" timestamp="1589168155326" />
+    <state x="455" y="178" key="CommitChangelistDialog2/-1920.63.1920.988/0.23.1792.1097@0.23.1792.1097" timestamp="1588717350260" />
+    <state x="455" y="178" key="CommitChangelistDialog2/-1920.63.1920.991/0.23.1792.1097@0.23.1792.1097" timestamp="1588216125967" />
+    <state x="1868" y="101" width="791" height="798" key="CommitChangelistDialog2/0.0.1680.1010/1680.0.1920.1080@1680.0.1920.1080" timestamp="1590024032468" />
+    <state x="0" y="168" key="CommitChangelistDialog2/0.23.1792.1027@0.23.1792.1027" timestamp="1588244999698" />
+    <state x="-1708" y="149" key="DiffContextDialog" timestamp="1589167860042">
+      <screen x="-1920" y="63" width="1920" height="985" />
+    </state>
+    <state x="-1708" y="149" key="DiffContextDialog/-1920.63.1920.985/0.23.1792.1097@-1920.63.1920.985" timestamp="1589167860042" />
+    <state x="198" y="126" key="DiffContextDialog/-1920.63.1920.988/0.23.1792.1097@0.23.1792.1097" timestamp="1588220317835" />
+    <state x="198" y="126" key="DiffContextDialog/-1920.63.1920.991/0.23.1792.1097@0.23.1792.1097" timestamp="1588216124315" />
+    <state x="2423" y="297" width="424" height="479" key="FileChooserDialogImpl" timestamp="1590018840463">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2423" y="297" width="424" height="479" key="FileChooserDialogImpl/0.0.1680.1010/1680.0.1920.1080@1680.0.1920.1080" timestamp="1590018840463" />
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom" timestamp="1590024048986">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1635" height="283" key="GridCell.Tab.0.bottom/-1920.63.1920.1057/0.23.1792.1027@0.23.1792.1027" timestamp="1589159841273" />
+    <state width="1635" height="321" key="GridCell.Tab.0.bottom/-1920.63.1920.1057/0.23.1792.1029@0.23.1792.1029" timestamp="1589161255557" />
+    <state width="1635" height="149" key="GridCell.Tab.0.bottom/-1920.63.1920.1057/0.23.1792.1031@0.23.1792.1031" timestamp="1589172202076" />
+    <state width="1635" height="257" key="GridCell.Tab.0.bottom/-1920.63.1920.1057/0.23.1792.1032@0.23.1792.1032" timestamp="1589184831652" />
+    <state width="1635" height="293" key="GridCell.Tab.0.bottom/-1920.63.1920.1057/0.23.1792.1036@0.23.1792.1036" timestamp="1588565535882" />
+    <state width="1635" height="270" key="GridCell.Tab.0.bottom/-1920.63.1920.981/0.23.1792.1097@-1920.63.1920.981" timestamp="1589587180971" />
+    <state width="1635" height="293" key="GridCell.Tab.0.bottom/-1920.63.1920.983/0.23.1792.1097@-1920.63.1920.983" timestamp="1589107541149" />
+    <state width="1635" height="293" key="GridCell.Tab.0.bottom/-1920.63.1920.983/0.23.1792.1097@0.23.1792.1097" timestamp="1589108938972" />
+    <state width="1635" height="149" key="GridCell.Tab.0.bottom/-1920.63.1920.985/0.23.1792.1097@-1920.63.1920.985" timestamp="1589168103373" />
+    <state width="1635" height="277" key="GridCell.Tab.0.bottom/-1920.63.1920.987/0.23.1792.1097@0.23.1792.1097" timestamp="1589166800578" />
+    <state width="1635" height="293" key="GridCell.Tab.0.bottom/-1920.63.1920.988/0.23.1792.1097@0.23.1792.1097" timestamp="1588584605472" />
+    <state width="1635" height="181" key="GridCell.Tab.0.bottom/-1920.63.1920.990/0.23.1792.1097@0.23.1792.1097" timestamp="1588220040866" />
+    <state width="1635" height="121" key="GridCell.Tab.0.bottom/-1920.63.1920.991/0.23.1792.1097@0.23.1792.1097" timestamp="1588216535699" />
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom/0.0.1680.1010/1680.0.1920.1080@1680.0.1920.1080" timestamp="1590024048986" />
+    <state width="1635" height="270" key="GridCell.Tab.0.bottom/0.23.1792.1027@0.23.1792.1027" timestamp="1589451852081" />
+    <state width="1899" height="290" key="GridCell.Tab.0.center" timestamp="1590024048986">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1635" height="283" key="GridCell.Tab.0.center/-1920.63.1920.1057/0.23.1792.1027@0.23.1792.1027" timestamp="1589159841272" />
+    <state width="1635" height="321" key="GridCell.Tab.0.center/-1920.63.1920.1057/0.23.1792.1029@0.23.1792.1029" timestamp="1589161255557" />
+    <state width="1635" height="149" key="GridCell.Tab.0.center/-1920.63.1920.1057/0.23.1792.1031@0.23.1792.1031" timestamp="1589172202075" />
+    <state width="1635" height="257" key="GridCell.Tab.0.center/-1920.63.1920.1057/0.23.1792.1032@0.23.1792.1032" timestamp="1589184831651" />
+    <state width="1635" height="293" key="GridCell.Tab.0.center/-1920.63.1920.1057/0.23.1792.1036@0.23.1792.1036" timestamp="1588565535880" />
+    <state width="1635" height="270" key="GridCell.Tab.0.center/-1920.63.1920.981/0.23.1792.1097@-1920.63.1920.981" timestamp="1589587180971" />
+    <state width="1635" height="293" key="GridCell.Tab.0.center/-1920.63.1920.983/0.23.1792.1097@-1920.63.1920.983" timestamp="1589107541148" />
+    <state width="1635" height="293" key="GridCell.Tab.0.center/-1920.63.1920.983/0.23.1792.1097@0.23.1792.1097" timestamp="1589108938971" />
+    <state width="1635" height="149" key="GridCell.Tab.0.center/-1920.63.1920.985/0.23.1792.1097@-1920.63.1920.985" timestamp="1589168103372" />
+    <state width="1635" height="277" key="GridCell.Tab.0.center/-1920.63.1920.987/0.23.1792.1097@0.23.1792.1097" timestamp="1589166800577" />
+    <state width="1635" height="293" key="GridCell.Tab.0.center/-1920.63.1920.988/0.23.1792.1097@0.23.1792.1097" timestamp="1588584605472" />
+    <state width="1635" height="181" key="GridCell.Tab.0.center/-1920.63.1920.990/0.23.1792.1097@0.23.1792.1097" timestamp="1588220040866" />
+    <state width="1635" height="121" key="GridCell.Tab.0.center/-1920.63.1920.991/0.23.1792.1097@0.23.1792.1097" timestamp="1588216535698" />
+    <state width="1899" height="290" key="GridCell.Tab.0.center/0.0.1680.1010/1680.0.1920.1080@1680.0.1920.1080" timestamp="1590024048986" />
+    <state width="1635" height="270" key="GridCell.Tab.0.center/0.23.1792.1027@0.23.1792.1027" timestamp="1589451852080" />
+    <state width="1899" height="290" key="GridCell.Tab.0.left" timestamp="1590024048986">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1635" height="283" key="GridCell.Tab.0.left/-1920.63.1920.1057/0.23.1792.1027@0.23.1792.1027" timestamp="1589159841271" />
+    <state width="1635" height="321" key="GridCell.Tab.0.left/-1920.63.1920.1057/0.23.1792.1029@0.23.1792.1029" timestamp="1589161255556" />
+    <state width="1635" height="149" key="GridCell.Tab.0.left/-1920.63.1920.1057/0.23.1792.1031@0.23.1792.1031" timestamp="1589172202075" />
+    <state width="1635" height="257" key="GridCell.Tab.0.left/-1920.63.1920.1057/0.23.1792.1032@0.23.1792.1032" timestamp="1589184831651" />
+    <state width="1635" height="293" key="GridCell.Tab.0.left/-1920.63.1920.1057/0.23.1792.1036@0.23.1792.1036" timestamp="1588565535879" />
+    <state width="1635" height="270" key="GridCell.Tab.0.left/-1920.63.1920.981/0.23.1792.1097@-1920.63.1920.981" timestamp="1589587180970" />
+    <state width="1635" height="293" key="GridCell.Tab.0.left/-1920.63.1920.983/0.23.1792.1097@-1920.63.1920.983" timestamp="1589107541147" />
+    <state width="1635" height="293" key="GridCell.Tab.0.left/-1920.63.1920.983/0.23.1792.1097@0.23.1792.1097" timestamp="1589108938971" />
+    <state width="1635" height="149" key="GridCell.Tab.0.left/-1920.63.1920.985/0.23.1792.1097@-1920.63.1920.985" timestamp="1589168103372" />
+    <state width="1635" height="277" key="GridCell.Tab.0.left/-1920.63.1920.987/0.23.1792.1097@0.23.1792.1097" timestamp="1589166800576" />
+    <state width="1635" height="293" key="GridCell.Tab.0.left/-1920.63.1920.988/0.23.1792.1097@0.23.1792.1097" timestamp="1588584605471" />
+    <state width="1635" height="181" key="GridCell.Tab.0.left/-1920.63.1920.990/0.23.1792.1097@0.23.1792.1097" timestamp="1588220040865" />
+    <state width="1635" height="121" key="GridCell.Tab.0.left/-1920.63.1920.991/0.23.1792.1097@0.23.1792.1097" timestamp="1588216535698" />
+    <state width="1899" height="290" key="GridCell.Tab.0.left/0.0.1680.1010/1680.0.1920.1080@1680.0.1920.1080" timestamp="1590024048986" />
+    <state width="1635" height="270" key="GridCell.Tab.0.left/0.23.1792.1027@0.23.1792.1027" timestamp="1589451852080" />
+    <state width="1899" height="290" key="GridCell.Tab.0.right" timestamp="1590024048986">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1635" height="283" key="GridCell.Tab.0.right/-1920.63.1920.1057/0.23.1792.1027@0.23.1792.1027" timestamp="1589159841273" />
+    <state width="1635" height="321" key="GridCell.Tab.0.right/-1920.63.1920.1057/0.23.1792.1029@0.23.1792.1029" timestamp="1589161255557" />
+    <state width="1635" height="149" key="GridCell.Tab.0.right/-1920.63.1920.1057/0.23.1792.1031@0.23.1792.1031" timestamp="1589172202076" />
+    <state width="1635" height="257" key="GridCell.Tab.0.right/-1920.63.1920.1057/0.23.1792.1032@0.23.1792.1032" timestamp="1589184831651" />
+    <state width="1635" height="293" key="GridCell.Tab.0.right/-1920.63.1920.1057/0.23.1792.1036@0.23.1792.1036" timestamp="1588565535881" />
+    <state width="1635" height="270" key="GridCell.Tab.0.right/-1920.63.1920.981/0.23.1792.1097@-1920.63.1920.981" timestamp="1589587180971" />
+    <state width="1635" height="293" key="GridCell.Tab.0.right/-1920.63.1920.983/0.23.1792.1097@-1920.63.1920.983" timestamp="1589107541149" />
+    <state width="1635" height="293" key="GridCell.Tab.0.right/-1920.63.1920.983/0.23.1792.1097@0.23.1792.1097" timestamp="1589108938972" />
+    <state width="1635" height="149" key="GridCell.Tab.0.right/-1920.63.1920.985/0.23.1792.1097@-1920.63.1920.985" timestamp="1589168103373" />
+    <state width="1635" height="277" key="GridCell.Tab.0.right/-1920.63.1920.987/0.23.1792.1097@0.23.1792.1097" timestamp="1589166800577" />
+    <state width="1635" height="293" key="GridCell.Tab.0.right/-1920.63.1920.988/0.23.1792.1097@0.23.1792.1097" timestamp="1588584605472" />
+    <state width="1635" height="181" key="GridCell.Tab.0.right/-1920.63.1920.990/0.23.1792.1097@0.23.1792.1097" timestamp="1588220040866" />
+    <state width="1635" height="121" key="GridCell.Tab.0.right/-1920.63.1920.991/0.23.1792.1097@0.23.1792.1097" timestamp="1588216535699" />
+    <state width="1899" height="290" key="GridCell.Tab.0.right/0.0.1680.1010/1680.0.1920.1080@1680.0.1920.1080" timestamp="1590024048986" />
+    <state width="1635" height="270" key="GridCell.Tab.0.right/0.23.1792.1027@0.23.1792.1027" timestamp="1589451852080" />
+    <state x="182" y="76" key="MergeDialog" timestamp="1589169111267">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state x="182" y="76" key="MergeDialog/-1920.63.1920.1057/0.23.1792.1031@0.23.1792.1031" timestamp="1589169111267" />
+    <state x="182" y="79" key="MergeDialog/-1920.63.1920.985/0.23.1792.1097@0.23.1792.1097" timestamp="1589161635208" />
+    <state x="603" y="251" key="MultipleFileMergeDialog" timestamp="1589169147499">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state x="603" y="251" key="MultipleFileMergeDialog/-1920.63.1920.1057/0.23.1792.1031@0.23.1792.1031" timestamp="1589169147499" />
+    <state x="610" y="272" key="MultipleFileMergeDialog/-1920.63.1920.985/0.23.1792.1097@0.23.1792.1097" timestamp="1589161635235" />
+    <state x="437" y="159" key="SettingsEditor" timestamp="1589624919882">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state x="437" y="159" key="SettingsEditor/-1920.63.1920.1057/0.23.1792.1032@0.23.1792.1032" timestamp="1589613134860" />
+    <state x="-1452" y="192" key="SettingsEditor/-1920.63.1920.981/0.23.1792.1097@-1920.63.1920.981" timestamp="1589586490665" />
+    <state x="437" y="159" key="SettingsEditor/0.23.1792.1031@0.23.1792.1031" timestamp="1589622557651" />
+    <state x="437" y="159" key="SettingsEditor/0.23.1792.1032@0.23.1792.1032" timestamp="1589624919882" />
+    <state x="598" y="315" key="Vcs.Multiple.Commit.Info.Dialog.Key" timestamp="1589161483327">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="598" y="315" key="Vcs.Multiple.Commit.Info.Dialog.Key/-1920.63.1920.985/0.23.1792.1097@0.23.1792.1097" timestamp="1589161483327" />
+<<<<<<< Updated upstream
+    <state x="2428" y="470" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590024034478">
+      <screen x="1680" y="0" width="1920" height="1080" />
+=======
+    <state x="698" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590043480556">
+      <screen x="0" y="23" width="1792" height="1023" />
+>>>>>>> Stashed changes
+    </state>
+    <state x="698" y="470" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.63.1920.1057/0.23.1792.1027@0.23.1792.1027" timestamp="1589159981177" />
+    <state x="698" y="471" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.63.1920.1057/0.23.1792.1029@0.23.1792.1029" timestamp="1589160354018" />
+    <state x="698" y="472" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.63.1920.1057/0.23.1792.1032@0.23.1792.1032" timestamp="1589173125193" />
+    <state x="-1172" y="490" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.63.1920.981/0.23.1792.1097@-1920.63.1920.981" timestamp="1589448320736" />
+    <state x="-1172" y="490" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.63.1920.983/0.23.1792.1097@-1920.63.1920.983" timestamp="1589107664250" />
+    <state x="698" y="500" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.63.1920.983/0.23.1792.1097@0.23.1792.1097" timestamp="1589108649429" />
+    <state x="-1172" y="492" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.63.1920.985/0.23.1792.1097@-1920.63.1920.985" timestamp="1589168157632" />
+    <state x="698" y="501" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.63.1920.985/0.23.1792.1097@0.23.1792.1097" timestamp="1589161408768" />
+    <state x="698" y="499" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.63.1920.988/0.23.1792.1097@0.23.1792.1097" timestamp="1588220428177" />
+<<<<<<< Updated upstream
+    <state x="2428" y="470" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1010/1680.0.1920.1080@1680.0.1920.1080" timestamp="1590024034478" />
+=======
+    <state x="698" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1792.1023@0.23.1792.1023" timestamp="1590043480556" />
+>>>>>>> Stashed changes
+    <state x="698" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1792.1027@0.23.1792.1027" timestamp="1588245002215" />
+    <state x="596" y="285" key="git4idea.branch.GitSmartOperationDialog" timestamp="1589162355584">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="596" y="269" key="git4idea.branch.GitSmartOperationDialog/-1920.63.1920.1057/0.23.1792.1027@0.23.1792.1027" timestamp="1589160035250" />
+    <state x="596" y="269" key="git4idea.branch.GitSmartOperationDialog/-1920.63.1920.1057/0.23.1792.1029@0.23.1792.1029" timestamp="1589160196877" />
+    <state x="596" y="285" key="git4idea.branch.GitSmartOperationDialog/-1920.63.1920.985/0.23.1792.1097@0.23.1792.1097" timestamp="1589162355584" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1589949059436">
+      <screen x="0" y="23" width="1792" height="1025" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1792.1025@0.23.1792.1025" timestamp="1589949059436" />
+    <state x="559" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1589790882129">
+      <screen x="0" y="23" width="1792" height="1034" />
+    </state>
+    <state x="559" y="264" key="search.everywhere.popup/-1920.63.1920.979/0.23.1792.1097@0.23.1792.1097" timestamp="1589761498273" />
+    <state x="559" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1792.1034@0.23.1792.1034" timestamp="1589790882129" />
+  </component>
+</project>
